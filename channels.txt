@@ -17,7 +17,7 @@ http://127.0.0.1:6878/ace/getstream?id=40da37534656efcc6179c1b7693335d5e8212e43
 #EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía (2)
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Movistar La Liga (2)
-http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
+http://127.0.0.1:6878/ace/getstream?id=87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn La Liga (2)
 http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,Dazn Fórmula 1 (2)
