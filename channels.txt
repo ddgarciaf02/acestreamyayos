@@ -9,6 +9,8 @@ http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
 http://127.0.0.1:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga de Campeones 
 http://127.0.0.1:6878/ace/getstream?id=539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga de Campeones 1
+http://127.0.0.1:6878/ace/getstream?id=9b76d0739f87555ccd3f42fc8e548762a0b94c28
 #EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,Movistar Deportes
 http://127.0.0.1:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1
@@ -23,6 +25,6 @@ http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,Dazn Fórmula 1 (2)
 http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga de Campeones (2)
-http://127.0.0.1:6878/ace/getstream?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
+http://127.0.0.1:6878/ace/getstream?id=3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1 (2)
 http://127.0.0.1:6878/ace/getstream?id=f8a77a75bf7572e360556339794d3d13fca8caa9
