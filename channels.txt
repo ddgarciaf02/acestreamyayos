@@ -2,36 +2,28 @@
 
 #EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 
-http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Movistar La Liga 
-http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
+http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn La Liga
-http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
+http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,Dazn Fórmula 1
 http://127.0.0.1:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga de Campeones 
-http://127.0.0.1:6878/ace/getstream?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga de Campeones 2
-http://127.0.0.1:6878/ace/getstream?id=612eed86f1ec250ebff3649e74e6729687c456f7
+http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,Movistar Deportes
-http://127.0.0.1:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1
-http://127.0.0.1:6878/ace/getstream?id=40da37534656efcc6179c1b7693335d5e8212e43
+http://127.0.0.1:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 2
+http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 #EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía (2)
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial (2)
-http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUND2.png" ,Gol Mundial 2 
-http://127.0.0.1:6878/ace/getstream?id=b67faee973e5a969a0adb02d476b78ef8cec4f3e
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Movistar La Liga (2)
-http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
+http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn La Liga (3)
-http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
+http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,Dazn Fórmula 1 (2)
 http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga de Campeones (2)
-http://127.0.0.1:6878/ace/getstream?id=f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1 (2)
-http://127.0.0.1:6878/ace/getstream?id=f8a77a75bf7572e360556339794d3d13fca8caa9
+http://127.0.0.1:6878/ace/getstream?id=444b51b2606cba9efb1b4ff56bf652cbc02a5f47
