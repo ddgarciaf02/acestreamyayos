@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SUPERCOPA" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1b/767515.png", Supercopa
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1b/767515.png", Supercopa
 http://127.0.0.1:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Movistar La Liga 
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
@@ -21,7 +21,7 @@ http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
 #EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía (2)
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SUPERCOPA" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1b/767515.png", Supercopa (2)
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1b/767515.png", Supercopa (2)
 http://127.0.0.1:6878/ace/getstream?id=95d9967309d74d3dbd87c66cf374666bb9da9f07
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Movistar La Liga (2)
 http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
