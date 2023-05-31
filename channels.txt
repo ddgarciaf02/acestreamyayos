@@ -18,7 +18,7 @@ http://127.0.0.1:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
 #EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía (2)
-http://972413569627272448.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/272448.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685544231/ei/xwh3ZKrGDZD31wKbz5A4/ip/92.205.15.128/id/FBZbfDoALOk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJ4zAjXPrPLvd8oXHYIJO-265CoquCbCBapOvCNsP6IQCIQCoaujX-iOaJD6Tbu9EIpvTCSZXnZCaM9ikQDwRyyr6Cg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Movistar La Liga (2)
 http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn La Liga (2)
