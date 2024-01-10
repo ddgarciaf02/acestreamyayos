@@ -4,7 +4,7 @@
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,Movistar La Liga
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,Supercopa
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1b/767515.png" ,Supercopa
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,Dazn La Liga
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
