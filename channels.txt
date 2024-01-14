@@ -2,18 +2,6 @@
 
 #EXTINF:-1 tvg-id="Canal Sur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/1200px-CanalSur1.svg.png",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="M+ Supercopa de España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png" ,SuperCopa 1a opción
-http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-id="M+ Supercopa de España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png" ,SuperCopa 2a opción
-http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-id="M+ Supercopa de España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png" ,SuperCopa 3a opción
-http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
-#EXTINF:-1 tvg-id="M+ Supercopa de España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png" ,SuperCopa 4a opción
-http://127.0.0.1:6878/ace/getstream?id=cf3c9dca822e47dda561a375bd0827b727653e8f
-#EXTINF:-1 tvg-id="M+ Supercopa de España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png" ,SuperCopa 5a opción
-http://127.0.0.1:6878/ace/getstream?id=8620cc7a6ce4dada7325c05f4c36af3d34f411af
-
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,Movistar La Liga
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,Dazn La Liga
